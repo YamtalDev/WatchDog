@@ -2,8 +2,6 @@
 
     Writer: Tal Aharon
 
-    Reviewer: First name and family name.
-
     Date: 11.06.2023
 
 ******************************************************************************/
